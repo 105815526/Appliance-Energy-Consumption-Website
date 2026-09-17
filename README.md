@@ -1,7 +1,7 @@
 # Task 01(a): Appliance Energy Consumption Website
 
-**Author:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
+**Author:** Stanley Ming Qian SIA 
+**Student ID:** 105815526  
 **Live Demo:** [https://your-project-name.vercel.app](https://your-project-name.vercel.app)  
 
 ---
@@ -18,7 +18,7 @@ This website is a small interactive demonstration site built using HTML, CSS, an
 
 ### Usage Summary
 During the development of this project, **GitHub Copilot / GenAI** tools were utilized for:
-* Generating base HTML template structures and boilerplates.
+* Generating base HTML template structures.
 * Writing CSS flexbox layouts for the top navigation bar and responsive header/footer elements.
 * Providing JavaScript snippet suggestions for interactive page element highlighting.
 
