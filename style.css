@@ -136,3 +136,68 @@ footer {
     font-size: 0.9rem;
     margin-top: auto;
 }
+
+/* Information Banner */
+.info-card {
+    background-color: #fffde7;
+    border: 1px solid #fff59d;
+    padding: 20px 25px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+/* Data Story Header */
+.data-story h1 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+}
+
+.section-desc {
+    color: #555;
+    margin-bottom: 40px;
+}
+
+/* Individual Chart Block & Spacing */
+.chart-block {
+    margin-bottom: 65px; /* Generous vertical gap between questions */
+}
+
+.chart-block h3 {
+    font-size: 1.2rem;
+    color: #111;
+    margin-bottom: 5px;
+}
+
+.chart-type {
+    font-weight: 600;
+    color: #666;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.chart-container {
+    width: 100%;
+    margin: 15px 0;
+    text-align: center;
+}
+
+.chart-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.chart-answer {
+    font-size: 0.98rem;
+    color: #222;
+    margin-top: 15px;
+    line-height: 1.5;
+}
+
+/* Conclusion Section */
+.conclusion-block {
+    border-top: 2px solid #eee;
+    padding-top: 25px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
